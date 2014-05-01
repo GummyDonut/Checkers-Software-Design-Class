@@ -1,0 +1,27 @@
+Traceback (most recent call last):
+  File "main.py", line 22, in <module>
+  File "main.py", line 17, in main
+  File "source\gameloop.pyo", line 47, in __run__
+pygame.error: display Surface quit
+Traceback (most recent call last):
+  File "main.py", line 22, in <module>
+  File "main.py", line 17, in main
+  File "source\gameloop.pyo", line 76, in __run__
+  File "source\save.pyo", line 66, in saveGame
+IOError: [Errno 2] No such file or directory: 'saves\\save1.txt'
+Traceback (most recent call last):
+  File "main.py", line 22, in <module>
+  File "main.py", line 17, in main
+  File "source\gameloop.pyo", line 47, in __run__
+pygame.error: display Surface quit
+Traceback (most recent call last):
+  File "main.py", line 22, in <module>
+  File "main.py", line 17, in main
+  File "source\gameloop.pyo", line 76, in __run__
+  File "source\save.pyo", line 66, in saveGame
+IOError: [Errno 2] No such file or directory: 'saves\\save1.txt'
+Traceback (most recent call last):
+  File "main.py", line 22, in <module>
+  File "main.py", line 17, in main
+  File "source\gameloop.pyo", line 47, in __run__
+pygame.error: display Surface quit
